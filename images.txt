@@ -1,3 +1,4 @@
 postgres:11-alpine
 redis:6-alpine
 mysql:8
+nacos:1.2.0
