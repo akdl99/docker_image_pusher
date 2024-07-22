@@ -1,4 +1,4 @@
 postgres:11-alpine
 redis:6-alpine
 mysql:8
-nacos:1.2
+wurstmeister/kafka:2.12-2.3.1
